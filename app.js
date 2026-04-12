@@ -188,3 +188,4 @@ onAuthStateChanged(auth, async (user) => {
         else window.showScreen('screen-username');
     } else { window.showScreen('screen-landing'); }
 });
+    
